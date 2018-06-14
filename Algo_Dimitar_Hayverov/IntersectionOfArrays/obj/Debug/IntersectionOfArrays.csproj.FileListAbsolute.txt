@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Algo_Dimitar_Hayverov\IntersectionOfArrays\obj\Debug\IntersectionOfArrays.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Algo_Dimitar_Hayverov\IntersectionOfArrays\obj\Debug\IntersectionOfArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algo_Dimitar_Hayverov\IntersectionOfArrays\bin\Debug\IntersectionOfArrays.exe.config
+C:\Users\user\source\repos\Algo_Dimitar_Hayverov\IntersectionOfArrays\bin\Debug\IntersectionOfArrays.exe
+C:\Users\user\source\repos\Algo_Dimitar_Hayverov\IntersectionOfArrays\bin\Debug\IntersectionOfArrays.pdb
+C:\Users\user\source\repos\Algo_Dimitar_Hayverov\IntersectionOfArrays\obj\Debug\IntersectionOfArrays.exe
+C:\Users\user\source\repos\Algo_Dimitar_Hayverov\IntersectionOfArrays\obj\Debug\IntersectionOfArrays.pdb
